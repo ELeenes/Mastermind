@@ -25,7 +25,7 @@ class Game{
     	Random r = new Random();
     	abcdef = (char)(r.nextInt(6) + 'a');
     	secretCode[i] = abcdef;
-    	System.out.print(abcdef); 
+    	//System.out.print(abcdef); 
     	}
     } 
     
